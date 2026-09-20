@@ -1,27 +1,23 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=SAM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20AI%20ENTHUSIAST%20%7C%20APP%20%26%20WEB%20BUILDER&descAlignY=58&descSize=17"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Analyzing+Data+%7C+Building+Insights;Learning+Python+for+Data+Analysis;Working+with+SQL+%26+Power+BI;Exploring+Artificial+Intelligence;Building+Apps+%26+Websites+as+a+Hobby;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=220&section=header&text=SAM&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20AI%20ENTHUSIAST%20%7C%20WEB%20BUILDER&descAlignY=60&descSize=16&descColor=CBD5E1" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DATA%20ANALYST-PRIMARY%20FOCUS-06B6D4?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Data+Analysis+%7C+SQL+%7C+Python+%7C+Power+BI;Turning+Data+Into+Insights;Exploring+Artificial+Intelligence;Building+Apps+%26+Websites+as+a+Hobby" alt="Typing SVG"/>
 
 <br/><br/>
 
 <a href="https://portfolio-beta-sam.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:samuvel072@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -30,459 +26,133 @@
 
 # 👨‍💻 About Me
 
-```yaml
-name: Sam
+I'm a **Data Analyst** with a background in Computer Applications and an interest in using technology to solve practical problems.
 
-education:
-  degree: B.C.A. Computer Applications
+My primary focus is **data analytics**, with an emphasis on SQL, Python, Power BI, Excel, and data visualization.
 
-primary_role:
-  - Data Analyst
-
-interests:
-  - Artificial Intelligence
-  - App Development
-  - Web Development
-
-focus:
-  - Data Analysis
-  - SQL
-  - Python
-  - Power BI
-  - Excel
-  - Data Visualization
-
-currently_learning:
-  - Python
-  - SQL
-  - Power BI
-  - Excel
-  - Data Analytics
-
-data_analytics:
-  - Oracle SQL
-  - MySQL
-  - Python
-  - Power BI
-  - Excel
-  - Data Visualization
-
-development_hobby:
-  - Building Web Applications
-  - Building Websites
-  - Experimenting with React
-  - Exploring Backend Technologies
-
-development_stack:
-  frontend:
-    - React.js
-    - JavaScript
-    - HTML
-    - CSS
-
-  backend:
-    - Node.js
-    - Flask
-
-  databases:
-    - Oracle SQL
-    - MySQL
-    - MongoDB
-
-mindset:
-  - Learn
-  - Analyze
-  - Build
-  - Experiment
-  - Improve
-```
-
-> 💡 I'm passionate about **turning data into meaningful insights** and continuously developing my analytical skills. In my free time, I enjoy **building apps and websites**, experimenting with new technologies, and turning ideas into working projects.
+I'm also interested in **Artificial Intelligence** and enjoy building **apps and websites as a hobby**, allowing me to combine analytical thinking with software development.
 
 ---
 
-# 📊 What I'm Working Toward
+# 📊 Data Analytics
 
 <div align="center">
 
-### `Learn → Analyze → Visualize → Build → Improve → Grow`
-
-</div>
-
-My primary focus is **Data Analytics**, while software development remains an important technical hobby.
-
-### 📊 Data Analytics — Primary Focus
-
-I'm developing practical skills in:
-
-* SQL and database analysis
-* Data cleaning and transformation
-* Exploratory data analysis
-* Data visualization
-* Power BI dashboards
-* Excel for analysis
-* Python for Data Analysis
-* Extracting meaningful insights from data
-
-### 🤖 Artificial Intelligence
-
-I'm exploring how AI can be combined with:
-
-* Data Analytics
-* Python
-* Web Applications
-* Real-world projects
-
-### 💻 App & Web Development — Hobby
-
-I enjoy building applications and websites in my free time, particularly using:
-
-* React.js
-* JavaScript
-* HTML
-* CSS
-* Node.js
-* Flask
-* MongoDB
-
----
-
-# 🧰 Tech Stack
-
-## 📊 Data Analytics — Core
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### Data Tools
-
-```text
-SQL
-Oracle SQL
-MySQL
-Power BI
-Excel
-Python
-Data Visualization
-```
-
----
-
-## 🐍 Python
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Currently learning Python with a focus on:
-
-```text
-Python Fundamentals
-Data Structures
-Functions
-Data Analysis
-Data Manipulation
-Data Visualization
-```
-
----
-
-## 🗄️ Databases & SQL
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-```text
-Oracle SQL
-MySQL
-SQL Queries
-Joins
-Aggregations
-Subqueries
-CTEs
-Window Functions
-Data Analysis
-```
-
----
-
-## 📈 Business Intelligence
-
-```text
-Power BI
-Excel
-Data Visualization
-Dashboards
-Data Exploration
-Reporting
-```
-
----
-
-## 💻 App & Web Development — Hobby
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-## 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
-</p>
-
----
-
-# 📚 My Learning Journey
-
-```text
-                 🎓 B.C.A.
-                    │
-                    ▼
-             💻 Programming
-                    │
-                    ▼
-            🌐 Web Development
-                    │
-                    ▼
-             📊 Data Analytics
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-        SQL                Excel
-          │                   │
-          └─────────┬─────────┘
-                    ▼
-                Power BI
-                    │
-                    ▼
-                 Python
-                    │
-                    ▼
-          📈 Data Visualization
-                    │
-                    ▼
-          🤖 Artificial Intelligence
-                    │
-                    ▼
-             🚀 Real Projects
-```
-
-<div align="center">
-
-### `Learn → Analyze → Build → Improve`
-
-</div>
-
----
-
-# 📊 Data Analytics Journey
-
-```text
-                     DATA ANALYTICS
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-            SQL          Excel        Python
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                       Power BI
-                           │
-                           ▼
-                  Data Visualization
-                           │
-                           ▼
-                    Data Insights
-                           │
-                           ▼
-                 Real-World Analysis
-```
-
-### SQL
-
-```text
-Queries
- │
- ├── Filtering
- ├── Sorting
- ├── Aggregations
- ├── GROUP BY
- ├── HAVING
- ├── Joins
- ├── Subqueries
- ├── Set Operators
- ├── CTEs
- ├── Window Functions
- └── Advanced SQL
-```
-
-### Analytics Workflow
-
-```text
-Raw Data
-   ↓
-Understand
-   ↓
-Clean
-   ↓
-Query
-   ↓
-Analyze
-   ↓
-Visualize
-   ↓
-Find Insights
-   ↓
-Communicate Results
-```
-
----
-
-# 🔥 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </div>
 
----
-
-# 🔭 Currently Exploring
-
-* 📊 Data Analytics
-* 🐍 Python for Data Analysis
-* 🗄️ Advanced SQL
-* 📈 Data Visualization
-* 📊 Power BI
-* 📑 Excel Analytics
-* 🤖 Artificial Intelligence
-* 💻 App Development
-* 🌐 Web Development
-* ☁️ Cloud Technologies
+My primary area of development is **Data Analytics**, working with data to identify patterns, generate insights, and support informed decision-making.
 
 ---
 
-# 💻 Featured Projects
+# 🤖 Artificial Intelligence
 
-## 📊 Project 01 — Data Analytics Project
+<div align="center">
 
-A data analysis project focused on querying, cleaning, analyzing and visualizing data to extract meaningful insights.
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-**Tech Stack**
+</div>
 
-`SQL` `Python` `Power BI` `Excel`
-
----
-
-## 🌐 Project 02 — Personal Portfolio
-
-A responsive portfolio website designed to showcase my skills, projects, learning journey and development work.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 **Live Portfolio:**
-
-https://portfolio-beta-sam.vercel.app
+Exploring practical applications of AI and how it can be integrated with data and software projects.
 
 ---
 
-## ⚡ Project 03 — Full Stack Web Application
+# 💻 Development
 
-A practical application built as part of my interest in software development and experimenting with modern web technologies.
+**A personal interest and hobby**
 
-**Tech Stack**
+<div align="center">
 
-`React` `JavaScript` `Node.js` `MongoDB`
+<img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,flask,mongodb" />
+
+</div>
+
+I enjoy creating **websites and applications**, experimenting with technologies, and turning ideas into working projects.
+
+---
+
+# 🧰 Technologies
+
+| Area               | Technologies                      |
+| ------------------ | --------------------------------- |
+| **Data Analytics** | SQL · Python · Power BI · Excel   |
+| **Databases**      | Oracle · MySQL · MongoDB          |
+| **Development**    | React · JavaScript · HTML · CSS   |
+| **Backend**        | Node.js · Flask                   |
+| **Tools**          | Git · GitHub · VS Code · Firebase |
+
+---
+
+# 🚀 Projects
+
+### 📊 Data Analytics Projects
+
+Projects focused on analyzing data, generating insights, and creating meaningful visualizations.
+
+**SQL · Python · Power BI · Excel**
+
+---
+
+### 🌐 Web & Application Projects
+
+Personal projects built to explore software development and transform ideas into functional applications.
+
+**React · JavaScript · Node.js · Flask · MongoDB**
+
+---
+
+### 🌐 Personal Portfolio
+
+A personal website showcasing my projects, skills, and professional journey.
+
+**React · JavaScript · HTML · CSS**
+
+**[Visit Portfolio](https://portfolio-beta-sam.vercel.app)**
 
 ---
 
 # 🎯 Current Focus
 
-```yaml
-primary_focus:
-  - Data Analytics
-  - SQL
-  - Python
-  - Power BI
-  - Excel
-  - Data Visualization
+<div align="center">
 
-building:
-  - Data Analytics Projects
-  - Portfolio Projects
-  - Real-World Data Projects
+### `DATA ANALYTICS`
 
-hobby:
-  - Building Web Applications
-  - Building Websites
-  - Experimenting with React
-  - Exploring Backend Technologies
+**SQL · Python · Power BI · Excel · Data Visualization**
 
-exploring:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Visualization
-  - Cloud Technologies
+<br/>
 
-career_goal:
-  - Build a career in Data Analytics
+### `EXPLORING`
 
-personal_goal:
-  - Keep building useful projects
-  - Keep learning new technologies
-  - Combine analytics, AI and software development
-```
+**Artificial Intelligence**
+
+<br/>
+
+### `HOBBY`
+
+**Building Apps & Websites**
+
+</div>
 
 ---
 
-# 🌱 My Philosophy
-
-<div align="center">
+# 🌱 Beyond the Code
 
 ```text
-       LEARN
-         ↓
-       ANALYZE
-         ↓
-      EXPERIMENT
-         ↓
-       BUILD
-         ↓
-       IMPROVE
-         ↓
-        SHARE
-         ↓
-        GROW
+Analyze
+   ↓
+Understand
+   ↓
+Build
+   ↓
+Improve
 ```
 
-### "Every project is another step forward."
-
-</div>
+I believe in continuously learning, building practical projects, and improving through hands-on experience.
 
 ---
 
@@ -494,7 +164,7 @@ personal_goal:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=22D3EE"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=22D3EE"/>
 
 <br/>
 
@@ -514,48 +184,29 @@ personal_goal:
 
 ---
 
-# 🏆 GitHub Goals
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Analyzing-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Improving-10B981?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# 🌐 Connect
 
 <div align="center">
 
 <a href="https://portfolio-beta-sam.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:samuvel072@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Analyze+%7C+Build+%7C+Learn+%7C+Improve;Turning+Data+Into+Insights+📊;Building+Ideas+Into+Projects+🚀;Keep+Learning+✨;Keep+Building+💻;Keep+Growing+🌱" alt="Footer Animation"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=140&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Analyze+%7C+Build+%7C+Learn+%7C+Grow;Turning+Data+Into+Insights;Turning+Ideas+Into+Projects" alt="Footer Animation"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=120&section=footer" width="100%"/>
 
 </div>
 
