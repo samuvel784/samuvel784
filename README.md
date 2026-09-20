@@ -2,13 +2,13 @@
 
 <!-- ==================== HEADER ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=SAM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20DATA%20ANALYST%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=17"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=230&section=header&text=SAM&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DATA%20ANALYST%20%7C%20AI%20ENTHUSIAST%20%7C%20APP%20%26%20WEB%20BUILDER&descAlignY=58&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+Real-World+Projects;Learning+Data+Analytics;Exploring+Artificial+Intelligence;Developing+with+React+%26+Python;Mastering+SQL+%26+Power+BI;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Analyzing+Data+%7C+Building+Insights;Learning+Python+for+Data+Analysis;Working+with+SQL+%26+Power+BI;Exploring+Artificial+Intelligence;Building+Apps+%26+Websites+as+a+Hobby;Turning+Ideas+Into+Real-World+Projects" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DATA-ANALYST-06B6D4?style=for-the-badge&labelColor=0F172A"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYST-PRIMARY%20FOCUS-06B6D4?style=for-the-badge&labelColor=0F172A"/>
 
 <br/><br/>
 
@@ -36,22 +36,44 @@ name: Sam
 education:
   degree: B.C.A. Computer Applications
 
-role:
-  - Full Stack Developer
+primary_role:
   - Data Analyst
 
-focus:
-  - Web Development
-  - Data Analytics
+interests:
   - Artificial Intelligence
+  - App Development
+  - Web Development
+
+focus:
+  - Data Analysis
+  - SQL
+  - Python
+  - Power BI
+  - Excel
+  - Data Visualization
 
 currently_learning:
   - Python
   - SQL
   - Power BI
   - Excel
+  - Data Analytics
 
-development:
+data_analytics:
+  - Oracle SQL
+  - MySQL
+  - Python
+  - Power BI
+  - Excel
+  - Data Visualization
+
+development_hobby:
+  - Building Web Applications
+  - Building Websites
+  - Experimenting with React
+  - Exploring Backend Technologies
+
+development_stack:
   frontend:
     - React.js
     - JavaScript
@@ -69,81 +91,155 @@ development:
 
 mindset:
   - Learn
+  - Analyze
   - Build
-  - Share
+  - Experiment
   - Improve
 ```
 
-> 💡 I enjoy turning ideas into real-world applications and continuously expanding my skills across **software development, data analytics, and artificial intelligence**.
+> 💡 I'm passionate about **turning data into meaningful insights** and continuously developing my analytical skills. In my free time, I enjoy **building apps and websites**, experimenting with new technologies, and turning ideas into working projects.
 
 ---
 
-# 🚀 What I'm Working Toward
+# 📊 What I'm Working Toward
 
 <div align="center">
 
-### `Learn → Build → Analyze → Improve → Grow`
+### `Learn → Analyze → Visualize → Build → Improve → Grow`
 
 </div>
 
-I'm building my skills across two connected areas:
+My primary focus is **Data Analytics**, while software development remains an important technical hobby.
 
-**💻 Software Development**
+### 📊 Data Analytics — Primary Focus
 
-Building modern applications using React, JavaScript, Python and backend technologies.
+I'm developing practical skills in:
 
-**📊 Data Analytics**
+* SQL and database analysis
+* Data cleaning and transformation
+* Exploratory data analysis
+* Data visualization
+* Power BI dashboards
+* Excel for analysis
+* Python for Data Analysis
+* Extracting meaningful insights from data
 
-Learning SQL, Power BI, Excel and Python to transform raw data into useful insights.
+### 🤖 Artificial Intelligence
 
-**🤖 Artificial Intelligence**
+I'm exploring how AI can be combined with:
 
-Exploring AI technologies and learning how they can be integrated into real-world applications.
+* Data Analytics
+* Python
+* Web Applications
+* Real-world projects
+
+### 💻 App & Web Development — Hobby
+
+I enjoy building applications and websites in my free time, particularly using:
+
+* React.js
+* JavaScript
+* HTML
+* CSS
+* Node.js
+* Flask
+* MongoDB
 
 ---
 
 # 🧰 Tech Stack
 
-## 💻 Programming Languages
+## 📊 Data Analytics — Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
----
-
-## 🎨 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,flask" />
-</p>
-
----
-
-## 🗄️ Databases & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 📊 Data Analytics
+### Data Tools
 
 ```text
 SQL
 Oracle SQL
+MySQL
 Power BI
 Excel
 Python
 Data Visualization
 ```
+
+---
+
+## 🐍 Python
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Currently learning Python with a focus on:
+
+```text
+Python Fundamentals
+Data Structures
+Functions
+Data Analysis
+Data Manipulation
+Data Visualization
+```
+
+---
+
+## 🗄️ Databases & SQL
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+```text
+Oracle SQL
+MySQL
+SQL Queries
+Joins
+Aggregations
+Subqueries
+CTEs
+Window Functions
+Data Analysis
+```
+
+---
+
+## 📈 Business Intelligence
+
+```text
+Power BI
+Excel
+Data Visualization
+Dashboards
+Data Exploration
+Reporting
+```
+
+---
+
+## 💻 App & Web Development — Hobby
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ---
 
@@ -158,30 +254,41 @@ Data Visualization
 # 📚 My Learning Journey
 
 ```text
-                 🎓 Education
-                      │
-                      ▼
-              💻 Programming
-                      │
-                      ▼
-             🌐 Web Development
-                      │
-                      ▼
-              📊 Data Analytics
-                      │
-                      ▼
-             🤖 Artificial Intelligence
-                      │
-                      ▼
-               🚀 Real Projects
-                      │
-                      ▼
-             💼 Professional Growth
+                 🎓 B.C.A.
+                    │
+                    ▼
+             💻 Programming
+                    │
+                    ▼
+            🌐 Web Development
+                    │
+                    ▼
+             📊 Data Analytics
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+        SQL                Excel
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+                Power BI
+                    │
+                    ▼
+                 Python
+                    │
+                    ▼
+          📈 Data Visualization
+                    │
+                    ▼
+          🤖 Artificial Intelligence
+                    │
+                    ▼
+             🚀 Real Projects
 ```
 
 <div align="center">
 
-### `Learn → Build → Share → Improve`
+### `Learn → Analyze → Build → Improve`
 
 </div>
 
@@ -190,30 +297,62 @@ Data Visualization
 # 📊 Data Analytics Journey
 
 ```text
-SQL
+                     DATA ANALYTICS
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+            SQL          Excel        Python
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                       Power BI
+                           │
+                           ▼
+                  Data Visualization
+                           │
+                           ▼
+                    Data Insights
+                           │
+                           ▼
+                 Real-World Analysis
+```
+
+### SQL
+
+```text
+Queries
  │
- ├── Queries
- ├── Joins
+ ├── Filtering
+ ├── Sorting
  ├── Aggregations
+ ├── GROUP BY
+ ├── HAVING
+ ├── Joins
  ├── Subqueries
+ ├── Set Operators
  ├── CTEs
  ├── Window Functions
  └── Advanced SQL
-        │
-        ▼
-Power BI
-        │
-        ▼
-Excel
-        │
-        ▼
-Python
-        │
-        ▼
-Data Visualization
-        │
-        ▼
-Real-World Data Analysis
+```
+
+### Analytics Workflow
+
+```text
+Raw Data
+   ↓
+Understand
+   ↓
+Clean
+   ↓
+Query
+   ↓
+Analyze
+   ↓
+Visualize
+   ↓
+Find Insights
+   ↓
+Communicate Results
 ```
 
 ---
@@ -233,42 +372,22 @@ Real-World Data Analysis
 
 # 🔭 Currently Exploring
 
-* 🤖 Artificial Intelligence
 * 📊 Data Analytics
-* 📈 Data Visualization
 * 🐍 Python for Data Analysis
 * 🗄️ Advanced SQL
-* ⚡ Modern Web Development
+* 📈 Data Visualization
+* 📊 Power BI
+* 📑 Excel Analytics
+* 🤖 Artificial Intelligence
+* 💻 App Development
+* 🌐 Web Development
 * ☁️ Cloud Technologies
 
 ---
 
 # 💻 Featured Projects
 
-## 🌐 Project 01 — Personal Portfolio
-
-A responsive portfolio website designed to showcase my skills, projects, experience and development journey.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `React`
-
-🔗 **Live Portfolio:**
-https://portfolio-beta-sam.vercel.app
-
----
-
-## ⚡ Project 02 — Full Stack Web Application
-
-A full-stack application focused on building a practical user experience with frontend, backend and database integration.
-
-**Tech Stack**
-
-`React` `JavaScript` `Node.js` `MongoDB`
-
----
-
-## 📊 Project 03 — Data Analytics Project
+## 📊 Project 01 — Data Analytics Project
 
 A data analysis project focused on querying, cleaning, analyzing and visualizing data to extract meaningful insights.
 
@@ -278,29 +397,65 @@ A data analysis project focused on querying, cleaning, analyzing and visualizing
 
 ---
 
+## 🌐 Project 02 — Personal Portfolio
+
+A responsive portfolio website designed to showcase my skills, projects, learning journey and development work.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `React`
+
+🔗 **Live Portfolio:**
+
+https://portfolio-beta-sam.vercel.app
+
+---
+
+## ⚡ Project 03 — Full Stack Web Application
+
+A practical application built as part of my interest in software development and experimenting with modern web technologies.
+
+**Tech Stack**
+
+`React` `JavaScript` `Node.js` `MongoDB`
+
+---
+
 # 🎯 Current Focus
 
 ```yaml
-learning:
-  - Python
+primary_focus:
+  - Data Analytics
   - SQL
+  - Python
   - Power BI
   - Excel
+  - Data Visualization
 
 building:
-  - Web Applications
-  - Portfolio Projects
   - Data Analytics Projects
+  - Portfolio Projects
+  - Real-World Data Projects
+
+hobby:
+  - Building Web Applications
+  - Building Websites
+  - Experimenting with React
+  - Exploring Backend Technologies
 
 exploring:
   - Artificial Intelligence
+  - Machine Learning
   - Data Visualization
   - Cloud Technologies
 
-goal:
-  - Become a strong Full Stack Developer
+career_goal:
   - Build a career in Data Analytics
-  - Create meaningful real-world projects
+
+personal_goal:
+  - Keep building useful projects
+  - Keep learning new technologies
+  - Combine analytics, AI and software development
 ```
 
 ---
@@ -312,9 +467,11 @@ goal:
 ```text
        LEARN
          ↓
-       BUILD
+       ANALYZE
          ↓
       EXPERIMENT
+         ↓
+       BUILD
          ↓
        IMPROVE
          ↓
@@ -362,9 +519,9 @@ goal:
 <div align="center">
 
 <img src="https://img.shields.io/badge/Always-Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Building-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Improving-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Always-Exploring-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Analyzing-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Building-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Always-Improving-10B981?style=for-the-badge"/>
 
 </div>
 
@@ -382,7 +539,7 @@ goal:
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samuvel072@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -394,10 +551,11 @@ goal:
 
 ### 💜 Thanks for visiting my profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Code+%7C+Learn+%7C+Build+%7C+Analyze+%7C+Grow;One+Project+At+A+Time+🚀;Keep+Learning+✨;Keep+Building+💻;Keep+Growing+🌱" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Analyze+%7C+Build+%7C+Learn+%7C+Improve;Turning+Data+Into+Insights+📊;Building+Ideas+Into+Projects+🚀;Keep+Learning+✨;Keep+Building+💻;Keep+Growing+🌱" alt="Footer Animation"/>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:7c3aed&height=140&section=footer"/>
 
 </div>
+
