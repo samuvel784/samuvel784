@@ -8,9 +8,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/FULL%20STACK-DEVELOPER-7C3AED?style=for-the-badge&labelColor=0F172A"/>
 <img src="https://img.shields.io/badge/DATA-ANALYST-06B6D4?style=for-the-badge&labelColor=0F172A"/>
-<img src="https://img.shields.io/badge/AI-EXPLORER-A855F7?style=for-the-badge&labelColor=0F172A"/>
 
 <br/><br/>
 
@@ -22,7 +20,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:samuvel072@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -36,7 +34,7 @@
 name: Sam
 
 education:
-  degree: B.E. Computer Science & Engineering
+  degree: B.C.A. Computer Applications
 
 role:
   - Full Stack Developer
