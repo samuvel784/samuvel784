@@ -1,297 +1,523 @@
 ````markdown
+<!-- ========================= -->
+<!--        ANIMATED HEADER     -->
+<!-- ========================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm [YOUR NAME]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=[YOUR%20NAME]&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### 📊 Aspiring Data Analyst | SQL • Power BI • Excel • Python
+<br>
 
-<p>
-  <a href="[LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://portfolio-beta-sam.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;SQL+%7C+Power+BI+%7C+Excel+%7C+Python;Turning+Data+Into+Insights;AI+%26+Application+Development+Enthusiast" />
+
+<br><br>
+
+<a href="[LINKEDIN_URL]">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-beta-sam.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
----
 
-## 👨‍💻 About Me
+<!-- ========================= -->
+<!--          ABOUT ME          -->
+<!-- ========================= -->
 
-I'm [YOUR NAME], an aspiring **Data Analyst** with a strong interest in transforming data into meaningful insights and supporting data-driven decision making.
+<h2 align="center">👋 About Me</h2>
 
-I'm currently developing my skills in:
+<img align="right" width="300" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif"/>
 
-- 📊 Data Analysis
-- 🗄️ SQL
-- 📈 Power BI
-- 📑 Excel
-- 🐍 Python
-- 📉 Data Visualization
+### 📊 Aspiring Data Analyst
 
-Alongside Data Analytics, I enjoy experimenting with **AI** and building websites and applications as a personal hobby.
+Hi! I'm **[YOUR NAME]**, an aspiring **Data Analyst** interested in discovering insights from data and solving practical problems through analytics.
 
-> 🎯 **Primary Career Goal:** Build a career in Data Analytics while continuing to explore AI and application development in my free time.
+🔹 Currently learning **SQL, Power BI, Excel and Python**
 
----
+🔹 Interested in **data cleaning, analysis and visualization**
 
-## 🧠 Data Analytics Skills
+🔹 Enjoy solving **SQL problems and analytical challenges**
 
-### 🗄️ SQL
+🔹 Interested in using **AI as a productivity and development tool**
 
-- Oracle SQL
-- [OTHER DATABASE]
-- Querying & Data Retrieval
-- Filtering & Sorting
-- Aggregate Functions
-- GROUP BY & HAVING
-- JOINs
-- Subqueries
-- CTEs
-- Set Operators
-- Window Functions
-- Views
-- Constraints
-- [OTHER SQL TOPICS]
+🔹 Build websites and applications as a **personal hobby**
 
-### 📊 Business Intelligence & Visualization
+🔹 Always experimenting with new technologies and ideas
 
-- Power BI
-- [Tableau]
-- [Other Tools]
+<br clear="right"/>
 
-### 📑 Spreadsheet Analysis
 
-- Microsoft Excel
-- [Advanced Excel Topics]
-- [Other Spreadsheet Tools]
+<!-- ========================= -->
+<!--       TECH STACK           -->
+<!-- ========================= -->
 
-### 🐍 Python for Data Analysis
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- [Other Libraries]
-
----
-
-## 🛠️ Technologies & Tools
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
 
 ### 📊 Data Analytics
 
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,oracle" />
 
-### 🤖 AI & Development
+<br><br>
 
-<img src="https://img.shields.io/badge/AI-Explore-6E40C9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-### 🔧 Tools
+<br><br>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+### 🐍 Python Data Tools
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<br><br>
+
+### 💻 Development — Hobby
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github" />
 
 </div>
 
----
 
-## 📈 My Data Analytics Journey
+<!-- ========================= -->
+<!--      ANALYTICS JOURNEY     -->
+<!-- ========================= -->
 
-| Area | Status |
-|------|--------|
-| 🗄️ SQL | [Learning / Completed] |
-| 📊 Power BI | [Learning / Completed] |
-| 📑 Excel | [Learning / Completed] |
-| 🐍 Python | [Learning / Completed] |
-| 📉 Statistics | [Learning / Completed] |
+<h2 align="center">📈 My Data Analytics Journey</h2>
 
-My current focus is building practical skills through hands-on learning, SQL problem solving, data analysis, visualization, and projects.
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="200">
 
-## 🚀 Featured Projects
+### 🗄️ SQL
 
-### 📊 [PROJECT NAME]
+<strong>Learning</strong>
 
-**Description:**  
-[Briefly explain what the project does and what problem it solves.]
+Queries  
+Joins  
+Aggregation  
+Subqueries  
+CTEs  
+Window Functions
 
-**Tools:**  
-`[SQL]` `[Power BI]` `[Excel]` `[Python]`
+</td>
 
-🔗 [GitHub Repository]([GITHUB_LINK])
+<td align="center" width="200">
 
-🔗 [Live Demo]([LIVE_LINK])
+### 📊 Power BI
+
+<strong>[STATUS]</strong>
+
+Data Modeling  
+DAX  
+Dashboards  
+Visualization
+
+</td>
+
+<td align="center" width="200">
+
+### 📑 Excel
+
+<strong>[STATUS]</strong>
+
+Functions  
+Cleaning  
+Pivot Tables  
+Analysis
+
+</td>
+
+<td align="center" width="200">
+
+### 🐍 Python
+
+<strong>Learning</strong>
+
+Python  
+Pandas  
+NumPy  
+Visualization
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
-### 📊 [PROJECT NAME]
+<!-- ========================= -->
+<!--       SQL KNOWLEDGE        -->
+<!-- ========================= -->
 
-**Description:**  
-[Briefly explain what the project does and what you learned.]
+<h2 align="center">🗄️ SQL Knowledge</h2>
 
-**Tools:**  
-`[TECHNOLOGY]` `[TECHNOLOGY]` `[TECHNOLOGY]`
+<div align="center">
 
-🔗 [GitHub Repository]([GITHUB_LINK])
+<img src="https://img.shields.io/badge/SELECT-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WHERE-00A86B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JOINs-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GROUP%20BY-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HAVING-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Subqueries-F39C12?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CTEs-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Window%20Functions-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Set%20Operators-3498DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Views-9B59B6?style=for-the-badge"/>
 
-🔗 [Live Demo]([LIVE_LINK])
+</div>
 
 
-### 🤖 [AI / APP PROJECT NAME]
+<!-- ========================= -->
+<!--          PROJECTS          -->
+<!-- ========================= -->
 
-**Description:**  
-[Briefly explain your AI, website, or application project.]
+<h2 align="center">🚀 Featured Projects</h2>
 
-**Tools:**  
-`[React]` `[JavaScript]` `[AI]` `[OTHER TECHNOLOGIES]`
+<div align="center">
 
-🔗 [GitHub Repository]([GITHUB_LINK])
+<table>
 
-🔗 [Live Demo]([LIVE_LINK])
+<tr>
 
----
+<td width="50%" valign="top">
 
-## 🤖 Beyond Data Analytics
+<h3 align="center">📊 [DATA PROJECT]</h3>
 
-### 💡 AI & Application Development
+<p align="center">
 
-While **Data Analytics is my primary career direction**, I also enjoy using technology creatively in my free time.
+[PROJECT DESCRIPTION]
 
-I like experimenting with:
+</p>
 
-- 🤖 AI-powered applications
-- 🌐 Websites
-- 💻 Web applications
-- 🧩 React projects
-- ⚡ AI-assisted development
-- 🛠️ Small tools and experiments
-- 🔬 New technologies
+<p align="center">
 
-These projects are mainly a **personal hobby and way to experiment, learn, and build**, while my professional focus remains on **Data Analytics**.
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square"/>
 
----
+</p>
 
-## 📊 What I'm Currently Learning
+<p align="center">
+
+<a href="[GITHUB_LINK]">
+<img src="https://img.shields.io/badge/View%20Project-0072FF?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">🐍 [PYTHON PROJECT]</h3>
+
+<p align="center">
+
+[PROJECT DESCRIPTION]
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+
+</p>
+
+<p align="center">
+
+<a href="[GITHUB_LINK]">
+<img src="https://img.shields.io/badge/View%20Project-7F00FF?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 [AI PROJECT]</h3>
+
+<p align="center">
+
+[PROJECT DESCRIPTION]
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-7F00FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</p>
+
+<p align="center">
+
+<a href="[GITHUB_LINK]">
+<img src="https://img.shields.io/badge/View%20Project-00A86B?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">💻 [WEB / APP PROJECT]</h3>
+
+<p align="center">
+
+[PROJECT DESCRIPTION]
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</p>
+
+<p align="center">
+
+<a href="[GITHUB_LINK]">
+<img src="https://img.shields.io/badge/View%20Project-E91E63?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+
+<!-- ========================= -->
+<!--      BEYOND ANALYTICS      -->
+<!-- ========================= -->
+
+<h2 align="center">🤖 Beyond Data Analytics</h2>
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="33%" align="center">
+
+## 🤖 AI
+
+Experimenting with AI tools, AI-assisted development and AI-powered ideas.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🌐 Web
+
+Building websites and web applications for fun and experimentation.
+
+</td>
+
+<td width="33%" align="center">
+
+## 🧩 Apps
+
+Creating small applications and useful tools in my free time.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+<p align="center">
+
+<strong>
+📊 Data Analytics is my primary career direction.
+</strong>
+
+<br>
+
+My AI, website and application projects are part of my personal exploration and hobby development.
+
+</p>
+
+
+<!-- ========================= -->
+<!--       GITHUB STATS         -->
+<!-- ========================= -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<!-- ========================= -->
+<!--    CONTRIBUTION SNAKE      -->
+<!-- ========================= -->
+
+<h2 align="center">🐍 Contribution Activity</h2>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+
+<!-- ========================= -->
+<!--       CURRENT FOCUS        -->
+<!-- ========================= -->
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
 
 ```text
-SQL
- ├── Querying
- ├── Joins
- ├── Aggregation
- ├── Subqueries
- ├── CTEs
- ├── Window Functions
- └── Advanced SQL
-
-Power BI
- ├── Data Preparation
- ├── Data Modeling
- ├── DAX
- └── Visualization
-
-Excel
- ├── Data Cleaning
- ├── Functions
- ├── Pivot Tables
- └── Data Analysis
-
-Python
- ├── Fundamentals
- ├── Pandas
- ├── NumPy
- └── Data Visualization
+📊 Data Analytics
+      ↓
+🗄️ SQL
+      ↓
+📈 Power BI
+      ↓
+📑 Excel
+      ↓
+🐍 Python
+      ↓
+🚀 Real-World Projects
 ````
 
----
+</div>
 
-## 📚 Learning Philosophy
+<!-- ========================= -->
 
-> **Learn → Practice → Build → Analyze → Improve**
+<!--        GOAL SECTION        -->
 
-I believe the best way to learn Data Analytics is through consistent practice and real-world problem solving.
+<!-- ========================= -->
 
----
-
-## 📊 GitHub Stats
+<h2 align="center">🌱 My Goal</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Turning%20Data%20Into%20Insights&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&hide_border=true" />
+📊 Learn Analytics
 
-<br/>
+  →  
 
-<img src="https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&hide_border=true" />
+🧠 Solve Problems
+
+  →  
+
+📈 Create Insights
+
+  →  
+
+🚀 Build Projects
 
 </div>
 
----
+<!-- ========================= -->
 
-## 🎯 Career Focus
+<!--        CONNECT             -->
 
-**Primary:**
-📊 Data Analytics
+<!-- ========================= -->
 
-**Interests:**
-🤖 Artificial Intelligence
-💻 Application Development
-🌐 Web Development
-
-**Goal:**
-To develop strong analytical skills, work with real-world data, create useful insights, and continuously explore new technologies.
-
----
-
-## 🌐 Connect With Me
+<h2 align="center">🌐 Let's Connect</h2>
 
 <div align="center">
 
-📍 [YOUR LOCATION]
+<a href="[LINKEDIN_URL]">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-📧 [YOUR EMAIL]
+<a href="https://portfolio-beta-sam.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-🔗 [LINKEDIN_URL]
-
-🌐 https://portfolio-beta-sam.vercel.app
+<a href="mailto:[YOUR_EMAIL]">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
----
+<!-- ========================= -->
+
+<!--       FOOTER               -->
+
+<!-- ========================= -->
 
 <div align="center">
 
-### 💡 Turning Data Into Insights — While Building Things For Fun
+<br>
 
-⭐ Feel free to explore my repositories and projects!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:0072FF,100:00C6FF&height=140&section=footer"/>
 
 </div>
 ```
 
-### One important change I recommend
+### What this version adds
 
-I **would not put "Data Analyst" as your title if you haven't worked professionally as one yet**. Use:
+* 🌈 **Gradient animated header/footer**
+* ⌨️ **Animated typing text**
+* 👁️ **Profile-view counter**
+* 🎨 Colorful technology badges
+* 📊 Data Analytics journey cards
+* 🗄️ Dedicated SQL knowledge section
+* 🚀 Project cards
+* 🤖 Separate AI section
+* 🌐 Separate website/app hobby section
+* 📈 GitHub statistics
+* 🔥 Contribution streak
+* 🐍 Animated contribution snake
+* 🎯 Animated career-goal section
+* 💼 Still keeps **Data Analyst clearly as the primary career**
 
-> **📊 Aspiring Data Analyst | SQL • Power BI • Excel • Python**
+**One correction before you paste it:** the snake animation will **not work merely by putting that `<img>` into your README**. Your repository needs a GitHub Actions workflow that generates the SVG first. We can add that separately.
 
-Then, once you actually have Data Analyst experience, you can change it to **Data Analyst**.
+Also, I intentionally left things like **Pandas, NumPy, React, Node.js, etc.** as placeholders/optional items. Don't claim them until you've actually learned or used them.
 
-Also, don't leave technologies like **Pandas, NumPy, Power BI, React, Node.js, etc.** in the final README unless you've actually used them. The template is intentionally designed so we can remove anything that doesn't match your real skills.
+If you give me your filled information, I can also make the final README **much more personalized instead of leaving generic project cards**.
